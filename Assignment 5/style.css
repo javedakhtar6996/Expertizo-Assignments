@@ -1,0 +1,62 @@
+body {
+    background-color: aqua ;
+    margin: 0% ;
+    padding : 0% ;   
+}
+div.heading {
+    background-color: #a30000 ;
+    margin: 0% ;
+    padding: 0% ;
+}
+.search {
+    margin-top: 45px ;
+    margin-right: -325px  ;
+    float: right ;
+}
+input[type=text] {
+    padding: 5px ;
+    border: none ;
+    border: 1px solid  white ;
+}
+button {
+    background-color: yellow ;
+    padding: 5px ;
+    border: none ;
+    cursor: pointer ;
+    background: none ;
+    border: 1px solid  white ;
+    color: white ;
+}
+.header-list {
+    float: right ;
+    margin-right: 10% ;
+}
+li {
+    display: inline-block ;   
+}
+.sp {
+    color: white;
+}
+li.text {
+    color: white ;
+}
+a {
+    color: yellow ;
+}
+div.row2 {
+    margin: 0% ;
+    padding: 0%;
+}
+ul.nav {
+    padding: 10px ;
+}
+.navbar {
+    text-decoration: none ;
+    display: inline-block ;
+    
+}
+.list {
+    padding: 10px ;
+    text-transform: uppercase ;
+    text-decoration: none ;
+}

@@ -1,0 +1,32 @@
+body {
+    padding: 0% ;
+    margin: 0% ;
+    background-color: coral
+}
+h1 {
+    text-align: center ;
+    background-color: steelblue ;
+    padding: 12px 0px 12px 0px ;
+}
+div {
+    margin: 0% ;
+    padding: 0% ;
+    text-align: center ;
+}
+ul {
+    background-color: black  ;
+    padding: 10px 0px 10px 0px ;
+
+}
+li {
+    display: inline-block ;
+    padding-right: 8px ;
+}
+a {
+    text-decoration: none ;
+    color: white ;
+    padding: 10px 5px 11px 5px ;
+}
+a:hover {
+    background-color: yellow ;
+}

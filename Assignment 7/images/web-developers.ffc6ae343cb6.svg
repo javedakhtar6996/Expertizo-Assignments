@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="51px" height="41px" viewBox="0 0 51 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Web Developers</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-small/Web-Developers" transform="translate(6.000000, 0.000000)">
+            <g id="Web-Developers" transform="translate(-5.000000, 1.000000)">
+                <path d="M4.4531,3.235 L4.4531,35.336 L44.5671,35.336 L44.5671,3.235 C44.5671,1.448 43.1191,0 41.3321,0 L7.6881,0 C5.9021,0 1.4531,1.448 1.4531,3.235" id="Fill-1" fill="#FFFFFF"></path>
+                <path d="M4.4531,3.235 L4.4531,35.336 L44.5671,35.336 L44.5671,3.235 C44.5671,1.448 43.1191,0 41.3321,0 L7.6881,0 C5.9021,0 4.4531,1.448 4.4531,3.235 Z" id="Stroke-3" stroke="#7D7D7D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M32.8017,32.9203 C32.6267,33.7893 31.8587,34.4443 30.9377,34.4443 L18.0827,34.4443 C17.1617,34.4443 16.3937,33.7893 16.2187,32.9203 L-0.0003,32.9203 C-0.0003,35.9373 2.4457,38.3823 5.4627,38.3823 L43.5577,38.3823 C46.5737,38.3823 49.0197,35.9373 49.0197,32.9203 L32.8017,32.9203 Z" id="Fill-5" fill="#B2B2B2"></path>
+                <path d="M32.8017,32.9203 C32.6267,33.7893 31.8587,34.4443 30.9377,34.4443 L18.0827,34.4443 C17.1617,34.4443 16.3937,33.7893 16.2187,32.9203 L-0.0003,32.9203 C-0.0003,35.9373 2.4457,38.3823 5.4627,38.3823 L43.5577,38.3823 C46.5737,38.3823 49.0197,35.9373 49.0197,32.9203 L32.8017,32.9203 Z" id="Stroke-7" stroke="#7D7D7D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polyline id="Stroke-9" stroke="#5BBC2E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="18.2392 12.7794 12.8402 17.5264 18.1132 22.1624"></polyline>
+                <path d="M27.5561,10.8417 L20.8541,25.0697" id="Stroke-11" stroke="#5BBC2E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polyline id="Stroke-13" stroke="#5BBC2E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="30.4878 23.1317 35.8868 18.3847 30.6138 13.7487"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

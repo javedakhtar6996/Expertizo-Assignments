@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="45px" height="41px" viewBox="0 0 45 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Accountants &amp; Consultants</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 40.5 44.882 40.5 44.882 0 0 0"></polygon>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-small/Accountants-&amp;-Consultants" transform="translate(2.000000, 0.000000)">
+            <g id="Accountants-&amp;-Consultants" transform="translate(-2.000000, 0.000000)">
+                <g id="Group-4" transform="translate(1.000000, 15.500000)">
+                    <path d="M0.0002,0.5993 L0.0002,22.0083 C0.0002,23.1083 1.0202,24.0003 2.2782,24.0003 L40.6042,24.0003 C41.8622,24.0003 42.8822,23.1083 42.8822,22.0083 L42.8822,0.5993" id="Fill-1" fill="#F0F0F0"></path>
+                    <path d="M0.0002,0.5993 L0.0002,22.0083 C0.0002,23.1083 1.0202,24.0003 2.2782,24.0003 L40.6042,24.0003 C41.8622,24.0003 42.8822,23.1083 42.8822,22.0083 L42.8822,0.5993" id="Stroke-3" stroke="#7D7D7D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+                <path d="M3.1667,8.7409 C1.9697,8.7409 0.9997,9.7109 0.9997,10.9079 L0.9997,17.6799 L22.4407,26.0449 L43.8827,17.6799 L43.8827,10.9079 C43.8827,9.7109 42.9127,8.7409 41.7157,8.7409 L3.1667,8.7409 Z" id="Fill-5" fill="#B0E44F"></path>
+                <path d="M3.1667,8.7409 C1.9697,8.7409 0.9997,9.7109 0.9997,10.9079 L0.9997,17.6799 L22.4407,26.0449 L43.8827,17.6799 L43.8827,10.9079 C43.8827,9.7109 42.9127,8.7409 41.7157,8.7409 L3.1667,8.7409 Z" id="Stroke-7" stroke="#7D7D7D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M3.1667,8.7409 C1.9697,8.7409 0.9997,9.7109 0.9997,10.9079 L0.9997,17.6799 L22.4407,26.0449 L43.8827,17.6799 L43.8827,10.9079 C43.8827,9.7109 42.9127,8.7409 41.7157,8.7409 L3.1667,8.7409 Z" id="Fill-9" fill="#A3E789"></path>
+                <path d="M3.1667,8.7409 C1.9697,8.7409 0.9997,9.7109 0.9997,10.9079 L0.9997,17.6799 L22.4407,26.0449 L43.8827,17.6799 L43.8827,10.9079 C43.8827,9.7109 42.9127,8.7409 41.7157,8.7409 L3.1667,8.7409 Z" id="Stroke-11" stroke="#7D7D7D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polyline id="Stroke-13" stroke="#7D7D7D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="29.5793 2.5727 31.8973 2.5727 31.8973 8.5827"></polyline>
+                <polyline id="Stroke-15" stroke="#7D7D7D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="12.985 8.5226 12.985 2.5726 15.571 2.5726"></polyline>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-18"></g>
+                <polygon id="Fill-17" fill="#B2B2B2" mask="url(#mask-2)" points="15.676 4.41 29.206 4.41 29.206 1 15.676 1"></polygon>
+                <polygon id="Stroke-19" stroke="#7D7D7D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="15.676 4.41 29.206 4.41 29.206 1 15.676 1"></polygon>
+                <polygon id="Fill-20" fill="#B2B2B2" mask="url(#mask-2)" points="19.692 28.913 25.19 28.913 25.19 23.176 19.692 23.176"></polygon>
+                <polygon id="Stroke-21" stroke="#7D7D7D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="19.692 28.913 25.19 28.913 25.19 23.176 19.692 23.176"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

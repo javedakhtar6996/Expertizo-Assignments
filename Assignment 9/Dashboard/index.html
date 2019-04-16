@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>Dashboard</title>
+        <link rel="icon" href="../icon256.png" type="image/icon">
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+        <link rel="stylesheet" href="style.css" type="text/css">
+    </head>
+    <body>
+            <div class="header">
+                <div class="panel">
+                    <p>Welcome : <span id="username"></span>
+                    <a href="../Sign In/index.html" class=" btn btn-light">Log out</a>
+                    </p>
+                </div>
+                <br><br><br><br><br>
+                <h1 class="col-md-10 col-lg-12 col-sm-10 text-center text-light myhead" >Welcome To Expense Management System</h1>    
+            </div>
+            <br>
+            <br>
+
+            <div>
+                <h2 class="text-center text-dark">ALL Expenses</h2>
+            </div>
+            <br>
+            <div align="center">
+                <a href="../Add Expense/index.html" class="btn btn-primary">Add Expenses!</a>
+                <a href="../All Category/index.html" class="btn btn-primary">All Category!</a>
+                <a href="../Generate Report/index.html" target="_blank"  class="btn btn-success">Generate Report</a><br>
+            </div>
+            <div>
+                <input type="search" placeholder="Search By Category" class="myInput" id="search">
+            </div>
+            <br>
+            <div class="container">
+                <table class="table table-bordered table-dark table-striped table-hover">
+                    <thead class="hover">
+                        <tr>
+                            <th>ID</th>
+                            <th>Description</th>
+                            <th>Amount</th>
+                            <th>Category</th>
+                            <th>Created On</th>
+                        </tr>
+                    </thead>
+                    <tbody id="body">
+
+                    </tbody>
+                </table>
+            </div>
+
+        
+        <!-- Optional JavaScript -->
+        <script src="script.js"></script>
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    </body>
+</html>
